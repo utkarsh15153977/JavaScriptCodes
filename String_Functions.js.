@@ -1,0 +1,8 @@
+let s1="JavaScript is the most populer language in the world";
+console.log(s1.length);
+console.log(s1.charAt(4));
+
+console.log(s1.charAt(s1.length-1));
+
+console.log(s1.toUpperCase());
+console.log(s1.toLocaleLowerCase());
